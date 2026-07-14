@@ -1,18 +1,18 @@
 <a href="https://win-money.click/?brand=Xparibet&source=github.com" target="_blank">
-<img width="285" src="https://img.shields.io/badge/%D0%9E%D1%84%D0%B8%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D1%81%D0%B0%D0%B9%D1%82%20Xparibet-4A148C?style=flat" />
+<img width="477" src="https://img.shields.io/badge/%D0%9E%D1%84%D0%B8%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D1%81%D0%B0%D0%B9%D1%82%20Xparibet-2E8B57?style=for-the-badge" />
 </a>
 <br />
 <br />
 <a href="https://win-money.click/?brand=Xparibet&source=github.com" target="_blank">
-<img width="156" src="https://img.shields.io/badge/%D0%92%D1%85%D0%BE%D0%B4%20Xparibet-4A148C?style=flat" />
+<img width="263" src="https://img.shields.io/badge/%D0%92%D1%85%D0%BE%D0%B4%20Xparibet-2E8B57?style=for-the-badge" />
 </a>
 <br />
 <br />
 <a href="https://win-money.click/?brand=Xparibet&source=github.com" target="_blank">
-<img width="188" src="https://img.shields.io/badge/%D0%97%D0%B5%D1%80%D0%BA%D0%B0%D0%BB%D0%BE%20Xparibet-4A148C?style=flat" />
+<img width="316" src="https://img.shields.io/badge/%D0%97%D0%B5%D1%80%D0%BA%D0%B0%D0%BB%D0%BE%20Xparibet-2E8B57?style=for-the-badge" />
 </a>
 
-![Xparibet](334-6349.png)
+![Xparibet](33-8935.png)
 
 <h2>🚀 Добро пожаловать в мир Xparibet Casino: Практическое подсказку для клиентов</h2>
 <p>Официальный сайт Xparibet Casino предлагает уникальный игровой опыт, но навигация и доступ могут потребовать пояснений, особенно с учетом актуальных зеркал для бесперебойного входа.</p>
@@ -159,4 +159,3 @@ FAQ ❓
 </ul>
 
 [Open website](https://win-money.click/?brand=Xparibet&source=github.com)
-
